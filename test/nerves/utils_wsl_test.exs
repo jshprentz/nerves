@@ -1,5 +1,5 @@
 defmodule Nerves.MixUtilsTest do
-  use NervesTest.Case
+  use ExUnit.Case
 
   alias Nerves.Utils.WSL
 
